@@ -24,7 +24,7 @@
     "@react-navigation/native": "5.8.10",
     "@react-navigation/stack": "5.12.8",
     "lottie-react-native": "4.0.2",
-    "qs": "6.10.1",
+    "qs": "6.10.3",
     "react": "16.13.1",
     "react-native": "0.63.4",
     "react-native-confirmation-code-field": "6.5.1",
